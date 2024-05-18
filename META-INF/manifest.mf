@@ -1,0 +1,27 @@
+Manifest-Version: 1.0
+
+Name: click-jacking.js
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: wSt1UwcyX8y519DIprMsaH2Gleo=
+SHA256-Digest: 4yxmVbBTdR7K2icRkAN0P5p67GgcnCG2Q8oWt+QY/Io=
+
+Name: manifest.json
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: xjai3o4fyZmlM22KgDIj1o2QXN4=
+SHA256-Digest: 0OKX2ketvx1f0XeoRgOLcUznj7CVmsA4fNBFqHyuHiw=
+
+Name: icons/click-jacking.png
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: p1qjiGSNHGZ5OFkbd6eQaqIFFB8=
+SHA256-Digest: SZeD2inLiD/FkFAR5DhlwGPN1kuX4QhyWYdMRnGm3NE=
+
+Name: META-INF/cose.manifest
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: 6TQECbPbUR+N1zyFMevhhcGmrNM=
+SHA256-Digest: pNHJ98+OLqct/s36YtV8ML5RnH6ck0lObJZNW9y0FWI=
+
+Name: META-INF/cose.sig
+Digest-Algorithms: SHA1 SHA256
+SHA1-Digest: F3vntLlLx9cbhNSbkLknlbwBEr4=
+SHA256-Digest: 3m9na3MTmLC2O2TrRjvLrB+N/xmsqv3RPbiIlfy61mo=
+

@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "Jack-Finder",
+  "version": "0.0.1",
+  "description": "Adds a red border to all webpages potentially vulnerable to click-jacking and allows PoC to be downloaded",
+  "icons": {
+    "192": "icons/click-jacking-icon-192.png",
+    "512": "icons/click-jacking-icon-512.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["http://*/*", "https://*/*"],
+      "js": ["click-jacking.js"]
+    }
+  ],
+  "permissions": ["activeTab"]
+}
